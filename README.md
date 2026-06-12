@@ -36,6 +36,3 @@ Um website moderno, responsivo e interativo focado em conscientização ambienta
 | **Texto Principal** | `#222222` (Cinza escuro para melhor leitura) |
 | **Destaques / Cabeçalho** | Gradiente linear entre `#1b5e20` e `#43a047` |
 | **Botões e Elementos de Ação**| `#66bb6a` e `#2e7d32`
-## ✒️ Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
