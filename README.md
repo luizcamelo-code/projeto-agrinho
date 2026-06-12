@@ -17,3 +17,10 @@ Um website moderno, responsivo e interativo focado em conscientização ambienta
 * **Navegação Suave:** Rolagem suave (`scroll-behavior: smooth`) ao clicar nos links do menu.
 * **Seção de Impacto:** Exibição de dados e estatísticas em cartões estilizados.
 * **Área Interativa:** Componentes prontos para receber lógica de formulários ou scripts (Quiz e Calculadora de Pegada de Carbono).
+
+## 🛠️ Como Executar o Projeto
+
+1. Baixe os arquivos do projeto (`index.html` e `style.css`) e coloque-os na mesma pasta.
+2. Certifique-se de que o arquivo HTML está devidamente vinculado ao arquivo CSS dentro da tag `<head>`:
+   ```html
+   <link rel="stylesheet" href="style.css">
