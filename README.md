@@ -17,9 +17,3 @@ Um website moderno, responsivo e interativo focado em conscientização ambienta
 * **Navegação Suave:** Rolagem suave (`scroll-behavior: smooth`) ao clicar nos links do menu.
 * **Seção de Impacto:** Exibição de dados e estatísticas em cartões estilizados.
 * **Área Interativa:** Componentes prontos para receber lógica de formulários ou scripts (Quiz e Calculadora de Pegada de Carbono).
-
-## 🛠️ Como Executar o Projeto
-
-1. Faça o clone deste repositório ou baixe os arquivos fonte:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
